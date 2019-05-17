@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /api/rides/estimate
+
+uber:
+  path: https://api.uber.com/v1.2/estimates/price
+  authorization: "Token XFH-HyEJjp5Na7WgIW3QzRWJQYsk6YdDE4H7nVag"
